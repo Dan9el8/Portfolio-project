@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Food delivery App",
+      "imageSrc": "projects/project-A.png",
+      "description": "",
+      "skills": ["React", "Express.js", "Node.js", "Tailwind", "MongoDB", "Stripe", "JWT"],
+      "demo": "https://www.food-delivery.com1",
+      "source": "https://github.com/Dan9el8/Food-Delivery-Application"
+    },
+    {
+      "title": "Event Management App",
+      "imageSrc": "projects/project-B.png",
+      "description": "",
+      "skills": ["React", "Django", "PostgreSQL", "python", "Javascript"],
+      "demo": "https://www.event.com",
+      "source": "https://github.com/Dan9el8/Event-Management-App"
+    },
+    {
+      "title": "Gemini Clone",
+      "imageSrc": "projects/project-C.png",
+      "description": "",
+      "skills": ["React", "Redux", "Google API Key", "HTML", "Javascript", "CSS"],
+      "demo": "https://www.gemini-clone.com3",
+      "source": "https://www.github.com/Dan9el8/Gemini-clone"
+    },
+    {
+      "title": "Note-application",
+      "imageSrc": "projects/project-D.png",
+      "description": "",
+      "skills": ["React", "Django", "Python", "Javascript", "PostgreSQL", "Tailwind"],
+      "demo": "https://www.note-application.com",
+      "source": "https://github.com/Dan9el8/Note-app"
+    }
+  ]

@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Backend Developer",
+      "organisation": "Hotels.ng",
+      "startDate": "July, 2024",
+      "endDate": "Present",
+      "experiences": ["Built a RESTful API for a web application, enhancing data retrieval speed by 40%."],
+      "imageSrc": "history/hotels.png"
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Ubuntu Portal",
+      "startDate": "May, 2023 ",
+      "endDate": "June, 2024",
+      "experiences": ["Reduced processing time for large datasets by 75% through algorithm redesign, significantly enhancing application speed."],
+      "imageSrc": "history/verido.png"
+    },
+    {
+      "role": "Web Developer",
+      "organisation": "Upwork",
+      "startDate": "October 2022",
+      "endDate": "April, 2023",
+      "experiences": [
+        "Designed UIs for clients, that increased the number of customers by 40% due to simplicity in navigation",
+        "Worked closely with clients to understand their needs and deliver tailored solutions,"
+      ],
+      "imageSrc": "history/upwork.png"
+    }
+  ]
