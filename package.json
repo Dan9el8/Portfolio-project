@@ -4,6 +4,6 @@
     "@fontsource/roboto": "^5.1.1"
   },
   "scripts": {
-  "build": "react-scripts build"
+  "build": "vite build"
 }
 }
